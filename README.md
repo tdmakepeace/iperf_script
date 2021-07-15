@@ -19,3 +19,8 @@ Script to test the performance with different packet sizes.
 	"./client-iperf.sh 6 10 512" to run for 6 seconds with 10 ports (1001-1010) and Packet size set to 512 bytes. 
   
 	Time must be defined but the default for port range is 10 and packet size is 1024 
+
+
+#  Disclaimer
+This software is provided without support, warranty, or guarantee. Use at your own risk.
+  
